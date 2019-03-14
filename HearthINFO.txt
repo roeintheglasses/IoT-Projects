@@ -1,1 +1,0 @@
-Herth is an Arduino Based Health Project that provides realtime body tempratures and ecg data in a portalable and easy to access manner.
